@@ -1,0 +1,14 @@
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.exe
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.deps.json
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.runtimeconfig.json
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.runtimeconfig.dev.json
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.dll
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\bin\Debug\netcoreapp3.1\MyInterp.pdb
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.csproj.AssemblyReference.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.GeneratedMSBuildEditorConfig.editorconfig
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.AssemblyInfoInputs.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.AssemblyInfo.cs
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.csproj.CoreCompileInputs.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.dll
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.pdb
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\MyInterp\MyInterp\obj\Debug\netcoreapp3.1\MyInterp.genruntimeconfig.cache

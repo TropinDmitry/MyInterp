@@ -9,14 +9,13 @@ namespace MyInterp
     {
         static void Main(string[] args)
         {
-            string filePath = @"D:\I am Photoshop, it is a Programmer\Visual Studio\C#\mylang\mylang\test.txt";
+            string filePath = @"";
             if (File.Exists(filePath))
             {
                 List<string> lines = new List<string>();
                 lines = File.ReadAllLines(filePath).ToList();
 
-                var res =LexicAnalyser.Analyze(lines);
-                var ops = OPSGenerator.GenerateOPS(res);
+                
             }
         }
     }
